@@ -175,3 +175,115 @@ Stack trace:
 #3 {main}
 REQUEST_URI=/favicon.ico
 ---
+2013/10/13 17:03:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/battle/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/10/13 17:03:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/battle/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/10/13 17:03:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/battle/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/10/13 17:06:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/battle/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/10/13 17:07:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/battle/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/10/13 17:07:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/battle/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/10/13 17:08:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/battle/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/10/13 17:09:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/battle/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/10/13 17:09:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/battle/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/10/13 17:10:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/battle/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/10/13 17:10:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/battle/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/10/13 17:11:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/battle/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/10/13 17:12:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/battle/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/10/13 17:12:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/dbaltas/projects/php-frameworks-battle/yii-dynasty/battle/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
