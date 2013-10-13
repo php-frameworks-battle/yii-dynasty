@@ -1,13 +1,30 @@
 # yii-dynasty
 
-Implementation of Battle in yii
+Implementation of Battle in yii 1.1.14
 
 
 ## Setup
+* Clone the repo
+* setup apache
+
+### Apache Configuration
+
+	<VirtualHost *:80>
+	  ServerName yii-dynasty.local
+	  DocumentRoot /path-to-the-project?/yii-dynasty/battle/
+	  <Directory /path-to-the-project?/yii-dynasty/battle/>
+	    DirectoryIndex index.php
+	    AllowOverride All
+	    Order allow,deny
+	    Allow from all
+	  </Directory>
+	</VirtualHost>
+
 
 
 Yii Web Programming Framework
 =============================
+
 
 Thank you for choosing Yii - a high-performance component-based PHP framework.
 
